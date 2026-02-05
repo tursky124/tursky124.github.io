@@ -1,5 +1,13 @@
 # Quantum Computation and Simulation_Dr. Tian Chen
 
+##  <i class="fa fa-cogs" aria-hidden="true"></i> Working Experience
+
+### 
+
+* 2025.10-now     Beijing Institute of Technology, Professor
+* 2018.08-2025.09 Beijing Institute of Technology, Associate Professor
+* 2015.09-2018.07 Beijing Institute of Technology, Assistant Professor
+
 ##  <i class="fa fa-cogs" aria-hidden="true"></i> Education
 
 ### 
