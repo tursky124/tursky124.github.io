@@ -1,5 +1,3 @@
-# tursky124.github.io
-Personal Pages
 # Quantum Computation and Simulation_Dr. Tian Chen
 
 ##  <i class="fa fa-cogs" aria-hidden="true"></i> Education
